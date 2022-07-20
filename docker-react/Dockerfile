@@ -34,8 +34,6 @@
 # ARG - Define build-time variable
 # (maybe you want to define a parameter and its default value)
 
-
-
 # define the image we want to build from
 FROM node:16
 
